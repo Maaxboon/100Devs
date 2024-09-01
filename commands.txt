@@ -1,0 +1,18 @@
+Command  Description
+cd 	 Change directory
+ls	 List files and directories in current directory
+pwd	 Display the path of the current directory
+touch	 Create a file
+mkdir	 Create a directory
+rm	 Remove a file or directory. Warning: deleting a file or 	  directory with this command is permanent.
+cp 	 Copy a file or directory
+mv	 Move or rename a file or directory
+echo	 Print text to STDOUT
+cat 	 Display contents of a file
+more	 Display contents of a file, starting at the top and 
+	 letting user scroll down
+less	 Display contents of a file in an even more interactive 
+	 way.
+head	 Display the first part of a file
+tail	 Display the last part of a file
+man	 Display documentation about a command

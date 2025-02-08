@@ -1,3 +1,12 @@
 html {
   background: #87ceeb;
 }
+
+body {
+  border: 5px solid #48cd2e;
+}
+
+img {
+  width: 300px;
+  height: 400px;
+}

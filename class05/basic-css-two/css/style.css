@@ -11,10 +11,13 @@ section {
 }
 
 section {
-  font-size: 30px;
   color: gold;
-  font: Source Sans Pro Font;
+}
+
+h1 {
+  font-size: 30px;
   text-align: center;
+  font-family: "Source Sans 3", serif;
 }
 
 footer {

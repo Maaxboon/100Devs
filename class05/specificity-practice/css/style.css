@@ -2,8 +2,11 @@
 .africa {
   color: blue;
 }
-/* Please Make only Hufflepuff Gold */
 
+/* Please Make only Hufflepuff Gold */
+#bestHouse {
+  color: gold;
+}
 /* Please select Duck with the highest level of specificity possible */
 
 /* Please select Rhino with the highest level of specificity possible */

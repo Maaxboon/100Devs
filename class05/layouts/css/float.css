@@ -36,3 +36,10 @@ footer {
   margin: 0 0.5%;
   padding: 60px 0; /* Adjust height */
 }
+
+/* Full-width Footer */
+footer {
+  background: #ddd;
+  padding: 20px;
+  clear: both; /* Ensures footer stays below */
+}

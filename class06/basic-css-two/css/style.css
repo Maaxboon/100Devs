@@ -24,8 +24,7 @@ aside {
 aside p {
   color: white;
   font-size: 18px;
-  text-decoration: underline;
-  text-decoration-color: red;
+  text-decoration: underline red;
 }
 
 footer {

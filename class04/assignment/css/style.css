@@ -8,9 +8,15 @@ body {
   padding: 10px 50px;
 }
 
-img {
+.about {
+  overflow: hidden;
+}
+
+.avatar {
   height: 200px;
   width: 150px;
+  float: right;
+  margin-left: 20px;
 }
 
 div {

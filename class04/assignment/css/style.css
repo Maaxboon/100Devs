@@ -1,11 +1,14 @@
 html {
   background: #87ceeb;
+  width: 60%;
 }
 
 body {
   color: white;
   border: 5px solid #48cd34;
   padding: 10px 50px;
+  width: 60%;
+  margin: 30px auto;
 }
 
 .about {

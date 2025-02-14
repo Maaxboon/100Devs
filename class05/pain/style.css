@@ -3,6 +3,7 @@
   box-sizing: border-box;
 }
 
+/* Header and footer */
 header,
 footer {
   height: 100px;

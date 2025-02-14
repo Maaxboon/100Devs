@@ -6,7 +6,7 @@ section h2 {
 }
 
 /* Please make only "twitter" red and 20px */
-aside p a {
+aside a {
   color: red;
   font-size: 20px;
 }

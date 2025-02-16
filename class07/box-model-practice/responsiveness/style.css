@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+header,
+footer {
+  height: 10px;
+  border: 2px black solid;
+}
+section {
+  border: 2px solid black;
+  height: 25px;
+  flex: 1;
+}
+
+main,
+.bottom {
+  display: flex;
+}
+
+@media screen and (max-width: 600px) {
+  section {
+    background: red;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+  section {
+    background: lime;
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1200px) {
+  section {
+    background: blue;
+  }
+}

@@ -36,6 +36,12 @@ footer {
 section {
   height: 200px;
   border: 1px solid black;
+  flex: 1;
+}
+
+main,
+.bottom {
+  display: flex;
 }
 
 /******************************************

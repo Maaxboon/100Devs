@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+header,
+main {
+  background: #66768a;
+  text-align: center;
+}
+
+footer {
+  background: #161f2a;
+}

@@ -2,6 +2,10 @@
   height: 100vh;
   display: flex;
   gap: 25px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  flex-wrap: wrap;
 }
 
 .box-1 {
@@ -13,6 +17,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-shrink: 1;
 }
 
 .box-2 {
@@ -24,6 +29,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  align-self: center;
+  flex-shrink: 5;
 }
 
 .box-3 {
@@ -35,4 +42,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-shrink: 1;
 }

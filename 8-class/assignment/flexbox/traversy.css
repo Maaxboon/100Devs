@@ -1,3 +1,9 @@
+@media (min-width: 768px) {
+  .container-1 {
+    display: flex;
+  }
+}
+
 .container-1 {
   display: flex;
   /* align-items: flex-start;
@@ -6,7 +12,23 @@
   flex-direction: column;*/
 }
 
-.container-1 div {
+.container-2 {
+  display: flex;
+  /* justify-content: flex-start; Default 
+  justify-content: flex-end; end
+  justify-content: center;  center
+  justify-content: space-around;*/
+  justify-content: space-between;
+}
+
+.container-3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container-1 div,
+.container-2 div,
+.container-3 div {
   border: 1px #ccc solid;
   padding: 10px;
 }
@@ -23,4 +45,12 @@
 .box-3 {
   flex: 1;
   order: 3;
+}
+
+.container-2-box {
+  flex-basis: 30%;
+}
+
+.container-3-box {
+  flex-basis: 12%;
 }

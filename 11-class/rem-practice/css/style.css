@@ -73,7 +73,16 @@
 }
 
 /* Please double the size of someText, moreText, and lastText using ems, but only make one change */
+.heyo {
+  font-size: 2rem;
+}
 
 /* Please wrap lastText in a new section with the class of utOh and give it a base font size of 40px */
+.utOh {
+  font-size: 40px;
+}
 
 /* Please fix your doubling of lastText, buy converting to rems */
+.lastText {
+  font-size: 1rem;
+}

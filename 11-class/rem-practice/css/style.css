@@ -56,6 +56,21 @@
 }
 
 /* Please set a base font-size on heyo, and make someText 12px, moreText 16px, and lastText 27px BUT use ems instead of px */
+.heyo {
+  font-size: 64px;
+}
+
+.someText {
+  font-size: 0.1875em;
+}
+
+.moreText {
+  font-size: 0.25em;
+}
+
+.lastText {
+  font-size: 0.421875em;
+}
 
 /* Please double the size of someText, moreText, and lastText using ems, but only make one change */
 
